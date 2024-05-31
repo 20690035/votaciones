@@ -1,18 +1,12 @@
-# votaciones
+INTEGRANTES
+20690035 ULISES MIGUEL OLVERA LOPEZ
+20690024 ADRIANA AGUILAR MARTINEZ
+20690026 CYNTHIA RUBIO MARTINEZ
+20690105 GUSTAVO LOPEZ LARA
+20690128 MIGUEL A ROGRIGUEZ CORONADO
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# votaciones
-# votaciones
+info para login
+uli@gmail.com               password: 123456
+adri@gmail.com              password: 123456
+cynthia@gmail.com           password: 123456
