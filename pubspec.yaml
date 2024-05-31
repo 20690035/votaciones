@@ -1,0 +1,40 @@
+name: votaciones
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  meta: ^1.11.0 
+  cupertino_icons: ^1.0.6
+  firebase_core: ^2.31.1
+  firebase_auth: ^4.19.6
+  auth_buttons: ^3.0.2
+  cloud_firestore: ^4.9.1
+  intl: ^0.18.0 
+  network_image: ^0.1.1
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  
+  flutter_lints: ^3.0.0
+  google_sign_in: ^6.2.1
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+  - assets/images/
